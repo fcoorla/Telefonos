@@ -6,5 +6,5 @@ It's very easy to use and very small.
 
 Agenda de telefonos programada en Delphi.
 Se puede organizar por grupos con iconos.
-Es muy facil de usar y es muy pequeña.
+Es muy facil de usar y es ocupa muy poco espacio y memoria.
 
